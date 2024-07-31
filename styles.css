@@ -1,0 +1,30 @@
+body {
+    color: ghostwhite;
+    background: black;
+    background-image: url("Background.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+
+header{
+    border: solid 1px rgb(92, 35, 109);
+    background-color: rgb(92, 35, 109);
+    font-size: 50px;
+    font-family: "imbue";
+    padding: 20px;
+    position: static;
+    color: rgb(255, 255, 255);
+
+
+    }
+    section{
+
+        background-color: #29014f;
+        padding-bottom: 50px;
+        padding-top: 50px;
+        display: flex;
+    }
